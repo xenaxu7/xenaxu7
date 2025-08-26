@@ -61,6 +61,6 @@ Let's chat over bubble tea! 🧋
 
 📧 xenaxu7@gmail.com
 
-💼 LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/xena-xu/
 
 <p align="center"> <i>"Strategy without tactics is the slowest route to victory." – Sun Tzu (applies to data too!)</i> </p> ```
