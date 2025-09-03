@@ -1,4 +1,4 @@
-# Hello! I'm Xena 徐汇嘉 👋
+# Hello! I'm Xena 👋
 
 ## About Me 🌟
 Stats & Econ student at UofT who believes in data-driven decisions and strategic thinking! 
