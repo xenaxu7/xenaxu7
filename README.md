@@ -1,66 +1,25 @@
-# Hello! I'm Xena 👋
+# Xena (Huijia) Xu
 
-## About Me 🌟
-Stats & Econ student at UofT who believes in data-driven decisions and strategic thinking! 
-Former Go/Weiqi tournament organizer turned data enthusiast. Based in Toronto 🍁
+Mathematics major (minors in Statistics and Economics) at the University of Toronto Scarborough, class of 2028.
+Business Systems Analyst in CIBC Capital Markets' Alternate Solutions Group Technology, working on FX and cross-border payments products. Investment intern at Blue Lion Capital, a financial advisory firm for early-stage AI companies. Based in Toronto.
 
-- 🎓 **Statistics & Economics** @ UTSC (Class of 2027)
-- 🎯 **Interests:** Data Analytics × Sports Analytics × Market Research
-- 🎮 **Just built:** A complete Tetris game in MIPS assembly!
-- ♟️ **Fun fact:** I organize Go tournaments and apply game theory everywhere
-- 🏃‍♀️ **Active in:** Almost every sport you can imagine (but strategy games are my forte!)
+## What I work on
+- **Payments technology at CIBC (2026 –)**: business, functional and solution requirements for FX and cross-border payment platforms (300+ Jira stories across 7+ projects), user acceptance testing and release sign-off, Visio money-movement workflows, Power BI reporting. I also built my team's automation with GitHub Copilot and LLM agents: requirements drafting, Jira ticket creation, a release analyzer, meeting follow-ups and a weekly status dashboard.
+- **Deal tooling at Blue Lion Capital (2026 –)**: built and run the firm's internal deal-management system (TypeScript/React, Python FastAPI, PostgreSQL with pgvector, LLM APIs). It archives meetings and files and writes to the investor CRM only after a person confirms the change. Code is private; happy to talk through the design.
+- **Markets research**: sector investment theses and investment-committee assessments with valuation checks against comparable revenue multiples.
 
-## Current Research Interests 🔬
+## Public projects
+| Project | What it is | Stack |
+|---|---|---|
+| [SP500-lstm-portfolio](https://github.com/xenaxu7/SP500-lstm-portfolio) | LSTM return forecasts for 430+ S&P 500 constituents, top-30 equal-weight portfolio, 18-month out-of-sample backtest vs SPY and a thematic portfolio (Sharpe, max drawdown, volatility) | Python, TensorFlow/Keras, pandas, yfinance |
+| [MIPS-Tetris-Game](https://github.com/xenaxu7/MIPS-Tetris-Game) | Complete Tetris in MIPS assembly for CSCB58 (rotation with wall kicks, gravity, line clears, collision) | MIPS, MARS |
 
-### 🚗 Automotive Analytics
-Exploring Toronto's car market: price predictions, safety correlations, value optimization
+## Tools
+Python (pandas, NumPy, TensorFlow, Matplotlib) · SQL (PostgreSQL) · TypeScript/JavaScript (React, Node) · C · R · Git
+Excel (Power Query, pivot tables, XLOOKUP, dynamic arrays) · Power BI · Visio · Jira · Confluence · SharePoint
+LLM APIs (OpenAI, Anthropic, Gemini), prompt engineering, AI agents
 
-### 💎 Luxury Market Analysis  
-Jewelry sales patterns across GTA regions - finding the sparkle in the data
+## Outside work
+Tournament director of the 49th Canadian Go Open (2026): 130+ players from several countries, 230+ attendees, five corporate sponsors. I have played Go competitively since I was three and coach 140+ students.
 
-### 🏟️ Sports Facility Optimization
-Analyzing facility usage patterns across Toronto neighborhoods - where do people really play?
-
-### 📱 Social Media Impact Studies
-Quantifying digital influence on lifestyle choices in Canadian youth
-
-## Featured Projects 🌟
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🎮 **MIPS Tetris** | Full Tetris in assembly - because why not? | MIPS, MARS |
-| 🏠 **Toronto Housing Intel** | ML-powered price predictions | Python, Scikit-learn |
-| 🏟️ **GTA Sports Heatmap** | Interactive facility usage dashboard | R, Shiny, Leaflet |
-| 💰 **Student Saver Bot** | Finding deals for broke students | Python, BeautifulSoup |
-
-## Tech Arsenal 💻
-
-```python
-skills = {
-    "languages": ["Python", "R", "SQL", "C", "MIPS Assembly"],
-    "data_tools": ["Pandas", "NumPy", "Scikit-learn", "ggplot2", "Tableau"],
-    "interests": ["Machine Learning", "Sports Analytics", "Game Theory"],
-    "currently_learning": ["Deep Learning", "Cloud Computing", "Mandarin improving!"]
-}
-Beyond Coding 🌈
-
-When I'm not debugging code or analyzing data:
-
-♟️ Organizing Go tournaments (200+ participants!)
-
-📸 Capturing moments through photography
-
-🏃‍♀️ Trying every sport under the sun
-
-🎪 Planning events that people actually enjoy
-
-Let's Connect! 💬
-
-Working on something interesting? Need a strategic thinker who loves data?
-Let's chat over bubble tea! 🧋
-
-📧 xenaxu7@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/xena-xu/
-
-<p align="center"> <i>"Strategy without tactics is the slowest route to victory." – Sun Tzu (applies to data too!)</i> </p> ```
+[LinkedIn](https://www.linkedin.com/in/xena-xu/) · Huijia.xu@mail.utoronto.ca
